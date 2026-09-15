@@ -36862,6 +36862,7 @@
 43593^6^Smashes nearby targets with a frenzy.^0
 43594^6^Makes your eyes like those of a restless hunter for %z, giving you improved vision, increased mana regeneration, the ability to see invisible creatures, and increased accuracy.^0
 43595^6^Pierces your target's soul causing between #1 and @1 damage.^0
+43596^6^This spell absorbs a set amount of spell damage before dissipating. ^0
 43600^7^Bronze Gear^0
 43700^7^Gold Spring^0
 43800^7^Gold Gear^0
