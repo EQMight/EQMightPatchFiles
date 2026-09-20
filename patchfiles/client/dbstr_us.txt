@@ -36744,7 +36744,7 @@
 43044^6^Reduces the reuse timer of the Whirlwind Discipline by 12 seconds.^0
 43045^6^Reduces the reuse timer of the Counterattack Discipline by 13 minutes.^0
 43046^6^Reduces the reuse timer of the Restoring Will Discipline by 90 seconds.^0
-43048^6^Increases the damage done by the spell Hellfire by #1 to $1 percent.^0
+43048^6^Increases the damage done by the Hellfire spell by #1 to $1 percent.^0
 43049^6^Reduces the reuse timer of the Protective Spirit Discipline by 90 seconds.^0
 43050^6^Increases the damage done by selected poison damage over time spells by #1 to $1 percent.^0
 43051^6^Reduces the reuse timer of the Hundred Fists Discipline by 10 minutes.^0
@@ -36826,6 +36826,7 @@
 43371^6^Increases the damage of Bite of the Empress by #1 percent.^0
 43372^6^Reduces the reuse timer of the Rejuvenating Will and similar Discipline by 30 seconds.^0
 43399^6^You draw on inner strength and revitalize #1 health.^0
+43402^6^Reduces the reuse timer of Revitalize disciplines by 45 seconds.^0
 43404^6^Reduces the reuse timer of Iron Revitalize and Stealy Revitalize by 45 seconds.^0
 43407^6^Summons a fiery dagger for pets.^0
 43426^6^A cold grave grips your target, causing @1 damage every 6 seconds for up to %z.^0
@@ -36864,6 +36865,11 @@
 43595^6^Pierces your target's soul causing between #1 and @1 damage.^0
 43596^6^This spell absorbs a set amount of spell damage before dissipating. ^0
 43600^7^Bronze Gear^0
+43605^6^Increases the damage done by the selected direct damage spells against undead by #1 to $1 percent.^0
+43607^6^Increases the duration of ferocity-type spells by #1 percent. ^0
+43608^6^Lowers the resist chance of fire based direct damage spells by #1%.^0
+43613^6^Lowers the resist chance of cold based direct damage spells by #1%.^0
+43618^6^Lowers the resist chance of fire non-duration spells by #1%.^0
 43700^7^Gold Spring^0
 43800^7^Gold Gear^0
 43829^6^Grants you the ability to purchase a mercenary that resembles a scarecrow.^0
