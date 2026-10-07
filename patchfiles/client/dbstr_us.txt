@@ -629,6 +629,8 @@
 69^6^Burns your target's skin with a cinder bolt, causing between #1 and @1 damage.^0
 69^11^Will-O-Wisp^0
 69^12^Will-O-Wisps^0
+69^17^Token of Singularity^0
+69^18^Tokens of Singularity^0
 70^5^Pet Haste^0
 70^6^Burns your target's skin with a bolt of lava, causing between #1 and @1 damage.^0
 70^11^Zombie^0
@@ -36870,6 +36872,7 @@
 43608^6^Lowers the resist chance of fire based direct damage spells by #1%.^0
 43613^6^Lowers the resist chance of cold based direct damage spells by #1%.^0
 43618^6^Lowers the resist chance of fire non-duration spells by #1%.^0
+43619^6^Causes your target to suffer the effects of overindulgence, dealing between #1 and @1 damage every six seconds for %z.^0
 43700^7^Gold Spring^0
 43800^7^Gold Gear^0
 43829^6^Grants you the ability to purchase a mercenary that resembles a scarecrow.^0
