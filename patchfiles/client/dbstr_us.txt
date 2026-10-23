@@ -10301,7 +10301,7 @@
 7004^3^Thoughts^0
 7004^4^This ability increases the hate you generate by 30%.^0
 7005^1^Hastened Getaway^0
-7005^4^This ability decreases the amount of time required between uses of Stealthy Getaway by ten percent per rank. You may train in this ability once each level, upon reaching level 73.^0
+7005^4^This ability decreases the amount of time required between uses of Stealthy Getaway by ten percent per rank. You may train in this ability once each level, upon reaching level 65.^0
 7010^1^The Show Must Go On^0
 7010^4^This passive ability increases your ability to resist silencing effects by 25%. Each additional rank increases your ability to resist silencing effects by 5%.^0
 7016^1^Glyph of the Master^0
@@ -10588,7 +10588,7 @@
 7884^1^Extended Speed Focus^0
 7884^4^This passive ability will extend the duration of your Speed Focus discipline by 1 tick.^0
 7885^1^Extended Crystalpalm^0
-7885^4^This passive ability will extend the duration of your Crystalpalm discipline by 1 tick.^0
+7885^4^This passive ability will extend the duration of your Crystalpalm and Innerflame disciplines by 1 tick.^0
 7900^1^Theft of Essence^0
 7900^4^This ability gives you a chance to steal power from a summoned creature and give it to your pet whenever you use a bane spell on a summoned creature. Additional ranks increase the power given to your pet.^0
 7903^1^Malosinete^0
@@ -12809,7 +12809,7 @@
 10550^1^Beam of Slumber^0
 10550^2^Beam of^0
 10550^3^Slumber^0
-10550^4^This ability flings a beam of slumber out from you and will mezmerise up to eight enemies. Rank 2 will mezmerise targets up to level 93. Rank 3 will mezmerise targets up to level 98.^0
+10550^4^This ability flings a beam of slumber out from you and will mezmerise up to eight enemies up to level 78. Additional ranks increase the target level by 1 and make the spell harder to resist.^0
 10550^6^Reduces the chance that spell reagents will be consumed by #1 percent.  This bonus will decay on spells over level #2.^0
 10551^1^Phantasmic Reflex^0
 10551^4^This passive ability grants you a chance to cover yourself with a protective rune when you cast a mesmerization spell on a target. Additional ranks increase the protective power of the rune.^0
@@ -16349,7 +16349,7 @@
 13483^4^A short distance leap that will propel you forward.^0
 13484^1^Bloodlust^0
 13484^2^Bloodlust^0
-13484^4^This ability, when activated, allows your weapons to proc with every swing for up to 18 seconds.^0
+13484^4^This ability, when activated, allows your weapons to proc with every swing for up to 18 seconds.  Additional ranks extend the duration of the effect.^0
 13485^1^Primal Fury^0
 13485^4^This passive ability grants you the ability to flurry when attacking. Each rank increases your flurry skill slightly.^0
 13496^6^This ability allows warriors to temporarily boost hit points to get through tough situations.  The exertion takes its toll, though.  These hit points dissipate over the course of a minute and leave the warrior weaker than when Warlord's Tenacity started.^0
@@ -16600,7 +16600,7 @@
 13905^1^Hastened Flash of Anger^0
 13905^4^This passive ability reduces the time required between uses of Flash of Anger by 10 percent per rank.^0
 13908^1^Hastened Bazu Roar^0
-13908^4^This passive ability reduces the time required between uses of Bazu Roar by 10 percent per rank.^0
+13908^4^This passive ability reduces the time required between uses of Bazu Roar by and Bazu Bellow by 3 seconds.^0
 13911^1^Hastened Scowl^0
 13911^4^This passive ability reduces the time required between uses of Scowl by 3 seconds per rank.^0
 13917^1^Hastened Mark of the Mage Hunter^0
@@ -16908,7 +16908,7 @@
 14167^6^ ^0
 14168^6^ ^0
 14169^1^Hastened Thousand Blades^0
-14169^4^This passive ability reduces the time required between uses of Thousand Blades by 10 percent for each rank.^0
+14169^4^This passive ability reduces the time required between uses of Thousand Blades by 15 percent for each rank.^0
 14169^6^Fills your warder with prowess, increasing their attack speed, damage, armor class, and attack rating.^0
 14170^6^Infuses you and your pet with the power of a puma, increasing melee damage by #1 percent, healing #6 health every six seconds and increasing your maximum hit points by #7 for up to %z.^0
 14171^6^Infuses you and your pet with the power of a puma, increasing melee damage by #1 percent, healing #6 health every six seconds and increasing your maximum hit points by #7 for up to %z.^0
@@ -16925,7 +16925,7 @@
 14179^4^This passive ability extends of the duration of Dance of Blades by 1 tick per rank.^0
 14179^6^Aims an axe of the decimator at your opponent's legs, causing slower movement speed for a short time.^0
 14180^1^Extended Thousand Blades^0
-14180^4^This passive ability extends of the duration of Thousand Blades by 1 tick per rank.^0
+14180^4^This passive ability extends of the duration of Thousand Blades by 2 ticks per rank.^0
 14180^6^Using this high-pitched scream, you can unsettle your opponent and make them more vulnerable to ranged archery and thrown attacks.^0
 14181^1^Allegretto of Battle^0
 14181^4^This passive ability increases your maximum amount of double attack by 25 points per rank.^0
@@ -19278,6 +19278,9 @@
 15768^6^Increases the damage of magic-based spells by #1.  This bonus will decay on spells over level #2.^0
 15769^6^Increases the damage of magic-based spells by #1.  This bonus will decay on spells over level #2.^0
 15770^6^Increases the damage of magic-based spells by #1.  This bonus will decay on spells over level #2.^0
+15771^1^Identify^0
+15771^2^Identify^0
+15771^4^Provides magical information about the item that your target is holding.^0
 15771^6^Increases the damage of magic-based spells by #1.  This bonus will decay on spells over level #2.^0
 15772^6^Increases the damage of magic-based spells by #1.  This bonus will decay on spells over level #2.^0
 15773^6^Increases the damage of fire-based spells by #1.  This bonus will decay on spells over level #2.^0
@@ -19411,10 +19414,16 @@
 15901^6^Uses the resonance of faycite to generate a powerful harmonic barrier around the caster.^0
 15902^6^Uses the resonance of faycite to generate a powerful harmonic barrier around the caster.^0
 15903^6^Uses the resonance of faycite to generate a powerful harmonic barrier around the caster.^0
+15904^1^Tertiary Recall^0
+15904^2^Tertiary^0
+15904^3^Recall^0
+15904^4^This ability, when activated, transports you back to your third bind point with a 5 second cast time.^0
 15904^6^Uses the resonance of faycite to generate a powerful harmonic barrier around the caster.^0
 15905^6^Uses the resonance of faycite to generate a powerful harmonic barrier around the caster.^0
 15906^6^Uses the resonance of faycite to generate a powerful harmonic barrier around the caster.^0
 15907^6^Uses the resonance of faycite to generate a powerful harmonic barrier around the caster.^0
+15908^1^Weapon Mastery of the Katori^0
+15908^4^This passive ability increases the damage with one- and two-handed blunt weapons.^0
 15908^6^Allows you to jump several feet into the air.^0
 15909^6^This spell puts a 30%+ icy snare on a target.^0
 15910^6^This spell puts a 50 percent icy snare on affected targets, and a knockback on all enemies within 20 feet.^0
@@ -19536,9 +19545,23 @@
 16072^6^Developed by the denizens of Tranquility as a deterrent to potential attackers, this ability will shield you with a single-hit, large damage barrier of thorns.  Additional ranks of this ability increase the amount of damage that is inflicted.  You may tra^0
 16073^6^Developed by the denizens of Tranquility as a deterrent to potential attackers, this ability will shield you with a single-hit, large damage barrier of thorns.  Additional ranks of this ability increase the amount of damage that is inflicted.  You may tra^0
 16074^6^Developed by the denizens of Tranquility as a deterrent to potential attackers, this ability will shield you with a single-hit, large damage barrier of thorns.  Additional ranks of this ability increase the amount of damage that is inflicted.  You may tra^0
+16081^1^Eradicate Magic^0
+16081^2^Eradicate^0
+16081^3^Magic^0
+16081^4^This ability, when activated, has a 95% chance to remove up to 4 beneficial effects from your NPC target.^0
+16082^1^Mark of Travel^0
+16082^2^Mark of^0
+16082^3^Travel^0
+16082^4^Commits your current location to memory so you can return to it with the use of the Secondary Recall ability.^0
+16083^1^Bind Affinity^0
+16083^2^Bind^0
+16083^3^Affinity^0
+16083^4^This ability binds the affinity of your target to the current location.^0
 16084^6^For a brief time, you are able to commune with the woodland spirits who provide your party with exceptional regenerative abilities and a protective shield of armor and thorns.  Additional ranks increase the power of this effect^0
 16085^6^For a brief time, you are able to commune with the woodland spirits who provide your party with exceptional regenerative abilities and a protective shield of armor and thorns.  Additional ranks increase the power of this effect^0
 16086^6^For a brief time, you are able to commune with the woodland spirits who provide your party with exceptional regenerative abilities and a protective shield of armor and thorns.  Additional ranks increase the power of this effect^0
+16087^1^Hastened Nexus Gate^0
+16087^4^This passive ability reduces the reuse time of Nexus Gate by 50 percent.^0
 16087^6^Through this ability you are able to assume the form of a white spirit wolf. While in this form, your beneficial spells will require less mana and you will be resistant to cold based attacks.^0
 16091^6^Provides an upgraded version of Direwood Guard to Druids.^0
 16092^6^This ability, when active, will increase the damage you do at the cost of having heals that hit you be less effective. Additional ranks increase your damage dealing capabilities.^0
@@ -19555,6 +19578,8 @@
 16103^4^This ability trades health for mana over time.^0
 16106^6^This ability provides a darkness snare ability that does not do damage to your target.^0
 16107^6^This ability allows the Rogue to periodically perform a dazzling display of weaponry and dexterity that will reduce the Rogue's opponent's hate towards the Rogue. Additional ranks increase the amount of hate removed.^0
+16108^1^Warlord's Fury^0
+16108^4^Warlord's Fury, when activated, blesses you with Warlord's Fury and increases your target's hatred for you by 3000 points and increases your generated hate over time.^0
 16108^6^This ability allows the Rogue to periodically perform a dazzling display of weaponry and dexterity that will reduce the Rogue's opponent's hate towards the Rogue. Additional ranks increase the amount of hate removed.^0
 16109^6^This ability allows the Rogue to periodically perform a dazzling display of weaponry and dexterity that will reduce the Rogue's opponent's hate towards the Rogue. Additional ranks increase the amount of hate removed.^0
 16114^6^This ability provides a fast reuse version of Tigir's Insects.^0
@@ -19612,11 +19637,17 @@
 16181^6^The Five Point Palm Exploding Heart Technique will convert your life force into a destructive blow that will take effect a moment after you strike. Additional ranks increase the potency of this effect.^0
 16182^6^This ability will provide you with a boost to various forms of melee damage. Additional ranks increase the potency of this effect.^0
 16183^6^This ability will provide you with a boost to various forms of melee damage. Additional ranks increase the potency of this effect.^0
+16186^1^Stunning Kick^0
+16186^4^This passive ability grants your Kick skill and Kick skill attacks a 10% chance to trigger Stunning Kick which stuns a level 75 or lower target for 1 second.^0
 16188^6^This ability gives you a version of your Malo line of spells that is slightly more reliable than other versions.^0
 16192^6^This ability gives you the ability to cast a Divine Aura spell on a Player target, temporarily rendering the target invulnerable and granting a short duration heal on your target.^0
 16200^6^This ability gives you the ability to cast a large heal over time spell at no mana cost on a single target.^0
 16201^6^This ability gives you the ability to cast a large heal over time spell at no mana cost on a single target.^0
 16202^6^This ability gives you the ability to cast a large heal over time spell at no mana cost on a single target.^0
+16203^1^Paralytic Spray^0
+16203^2^Paralytic^0
+16203^3^Spray^0
+16203^4^This ability, when activated, consumes up to 8 opponents within a 100 foot long cone in front of you with disease, which roots them in place.^0
 16203^6^Through this ability you are able to assume the form of a black spirit wolf. While in this form, your direct damage spells will do more damage and you will be resistant to fire based attacks.^0
 16204^6^Through this ability you are able to assume the form of a black spirit wolf. While in this form, your direct damage spells will do more damage and you will be resistant to fire based attacks.^0
 16205^6^Through this ability you are able to assume the form of a black spirit wolf. While in this form, your direct damage spells will do more damage and you will be resistant to fire based attacks.^0
@@ -19675,6 +19706,8 @@
 16284^6^This ability, when active, will increase your chance to peform a critical strike with your damage over time spells. Additional ranks increase your chance.^0
 16285^6^This ability, when active, will increase your chance to peform a critical strike with your damage over time spells. Additional ranks increase your chance.^0
 16286^6^This ability, when active, will increase your chance to peform a critical strike with your damage over time spells. Additional ranks increase your chance.^0
+16287^1^Hastened Bladed Song^0
+16287^4^This passive ability reduces the time required between uses of Bladed Song by 20 seconds per rank.^0
 16287^6^This ability, when activated, will provide your pet with a proc that has an excellent chance of damaging your pet's foe.^0
 16288^6^This ability, when activated, will provide your pet with a proc that has an excellent chance of damaging your pet's foe.^0
 16289^6^This ability, when activated, will provide your pet with a proc that has an excellent chance of damaging your pet's foe.^0
@@ -19712,6 +19745,8 @@
 16327^6^You gather your strength and focus your mind which grants you additional damage with all of your attacks. Additional ranks increase your damage bonus.^0
 16328^6^You gather your strength and focus your mind which grants you additional damage with all of your attacks. Additional ranks increase your damage bonus.^0
 16329^6^This ability, when activated, will provide your pet with a proc that has an excellent chance of damaging your pet's foe.^0
+16330^1^Rageheart's Wrath^0
+16330^4^This passive ability increases the damage of your critical Frenzy attacks.^0
 16330^6^This ability, when activated, will provide your pet with a proc that has an excellent chance of damaging your pet's foe.^0
 16331^6^This ability, when activated, will provide your pet with a proc that has an excellent chance of damaging your pet's foe.^0
 16332^6^This ability, when activated, will enhance the melee combat capabilities of you and your group. Additional ranks increase the power of this effect.^0
@@ -19736,12 +19771,16 @@
 16351^6^You gather your strength and focus your mind which grants you heightened levels of defense, allowing you to better survive in melee combat. Additional ranks increase the effectiveness of your mitigation and avoidance.^0
 16352^6^You gather your strength and focus your mind which grants you heightened levels of defense, allowing you to better survive in melee combat. Additional ranks increase the effectiveness of your mitigation and avoidance.^0
 16359^6^This ability, when active, will boost the damage of your direct-damage procs. It will also make you more likely to proc while lowering the amount of hate that all of your actions generate.^0
+16360^1^Teleport to Guild Hall Anchor^0
+16360^4^This ability, when activated, consumes 750 mana to translocate all allies within a 150 foot radius to your Guild Hall Anchor with a 20 second cast time.^0
 16360^6^This ability, when active, will boost the damage of your direct-damage procs. It will also make you more likely to proc while lowering the amount of hate that all of your actions generate.^0
 16361^6^This ability, when active, will boost the damage of your direct-damage procs. It will also make you more likely to proc while lowering the amount of hate that all of your actions generate.^0
 16362^6^You gather your strength and focus your mind which grants you additional damage with all of your attacks. Additional ranks increase your damage bonus.^0
 16363^6^You gather your strength and focus your mind which grants you additional damage with all of your attacks. Additional ranks increase your damage bonus.^0
 16364^6^You gather your strength and focus your mind which grants you additional damage with all of your attacks. Additional ranks increase your damage bonus.^0
 16365^6^This ability, when active, will slightly increase your groups durability as well as increase the amount of damage done by any critical melee or spell strikes.^0
+16366^1^Sorcerer's Vengeance^0
+16366^4^This passive ability increases the damage done by your spells and abilities by 200 points per rank.^0
 16366^6^This ability, when active, will slightly increase your groups durability as well as increase the amount of damage done by any critical melee or spell strikes.^0
 16367^6^This ability, when active, will slightly increase your groups durability as well as increase the amount of damage done by any critical melee or spell strikes.^0
 16368^6^This ability, when active, will increase your personal survivability as well as increase various forms of damage dealing that you may do. Additional ranks increase the mitigation and damage dealing increases.^0
@@ -36714,6 +36753,7 @@
 42881^6^Fills your target's body with spiritual power, healing between #1 and @1 hit points every 6 seconds for %z.^0
 42883^6^Conjures a wave of holy heat that assaults all creatures in the vicinity of your target, causing three waves of between #1 and @1 damage.^0
 42892^6^Summons a gentle guardian of the nature to your assistance.^0
+42897^6^Increase the heal amount of direct healing spells by #1.  This bonus requires spells level #7 and above and will decay on spells over level #2.^0
 42910^6^The rage of Xeno consumes your target, increasing aggression toward you.^0
 42911^6^Turns you into an enraged Minotaur with increased attack speed, stunning your opponents.^0
 42912^6^Strikes an enemy with the power of the minotaur, briefly stunning them. This spell works on creatures up to level @1.^0
@@ -36873,6 +36913,10 @@
 43613^6^Lowers the resist chance of cold based direct damage spells by #1%.^0
 43618^6^Lowers the resist chance of fire non-duration spells by #1%.^0
 43619^6^Causes your target to suffer the effects of overindulgence, dealing between #1 and @1 damage every six seconds for %z.^0
+43630^6^Increase the heal amount of single-target, direct healing spells by #1.  This bonus requires spells level #7 and above and will decay on spells over level #2.^0
+43639^6^Inflicts the curse of the bone dragon upon your target, causing #2 damage every six seconds for %z.^0
+43640^6^Blasts nearby targets with unresitable focus.^0
+43641^6^Makes your eyes like those of a Nightstalker for %z, giving you improved vision, the ability to see invisible creatures, and increased accuracy.^0
 43700^7^Gold Spring^0
 43800^7^Gold Gear^0
 43829^6^Grants you the ability to purchase a mercenary that resembles a scarecrow.^0
